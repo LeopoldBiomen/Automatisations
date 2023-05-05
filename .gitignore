@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+.env
+service.json
+service2.json
+token.json
+test.js
+credentials.json
+serviceAccountCredentials.json
+test.js
+auth.json
+products.csv

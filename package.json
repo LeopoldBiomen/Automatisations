@@ -1,0 +1,30 @@
+{
+  "name": "catalogue.bio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node API.js -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "@playwright/test": "^1.30.0",
+    "axios": "^1.3.4",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "googleapis": "^110.0.0",
+    "openai": "^3.2.1",
+    "stream": "^0.0.2",
+    "write-excel-file": "^1.4.21",
+    "xlsx": "^0.18.5"
+  }
+}
